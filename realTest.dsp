@@ -11,7 +11,7 @@ with {
 
 
 
-pitchshifter=vgroup("Pitch Shifter",ef.transpose(1000,10,6));
+pitchshifter=vgroup("Pitch Shifter",transpose(1000,10,6));
 
 //filtre à ajouter
 
